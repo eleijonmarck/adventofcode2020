@@ -10,3 +10,9 @@
 ```
 yarn add --dev jest
 ```
+
+add the file
+
+```
+wget https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore .gitignore
+```
